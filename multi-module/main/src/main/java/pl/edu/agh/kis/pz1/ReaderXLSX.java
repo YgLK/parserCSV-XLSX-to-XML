@@ -3,7 +3,6 @@ package pl.edu.agh.kis.pz1;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.DataFormatter;
 import org.apache.poi.ss.usermodel.Row;
-import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
@@ -13,14 +12,22 @@ import java.util.Arrays;
 import java.util.Iterator;
 import java.util.Objects;
 
+
+/**
+ * Class which helps read data
+ * from XLSX files.
+ *
+ */
 public class ReaderXLSX {
     private Invoices invoices;
     private String filename;
+
 
     ReaderXLSX(Invoices invoices, String filenameToOpen){
         this.invoices = invoices;
         this.filename = filenameToOpen;
     }
+
 
     public void readFromXLSXfile(){
         FileInputStream file = null;
@@ -42,8 +49,7 @@ public class ReaderXLSX {
         }
 
 
-
-        // iterate through each
+        // iterate through each row
         while (Objects.requireNonNull(rowIterator).hasNext()) {
             Row nextRow = rowIterator.next();
             Iterator<Cell> cellIterator = nextRow.cellIterator();
@@ -84,5 +90,9 @@ public class ReaderXLSX {
                     cr.get(14)
             ));
         }
+    }
+
+    public Invoices getInvoices() {
+        return invoices;
     }
 }

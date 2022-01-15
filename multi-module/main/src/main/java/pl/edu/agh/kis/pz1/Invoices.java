@@ -8,6 +8,13 @@ import javax.xml.bind.annotation.XmlRootElement;
 import java.util.ArrayList;
 import java.util.List;
 
+
+/**
+ * Class representing list of
+ * invoices read from the
+ * CSV/XLSX file.
+ *
+ */
 @XmlRootElement(name="faktury")
 @XmlAccessorType(XmlAccessType.FIELD)
 public class Invoices {

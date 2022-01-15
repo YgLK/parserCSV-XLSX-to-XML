@@ -7,6 +7,12 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.Reader;
 
+
+/**
+ * Class which helps read data
+ * from CSV files.
+ *
+ */
 public class ReaderCSV {
     private Iterable<CSVRecord> recordsFromCSV;
     private Invoices invoices;

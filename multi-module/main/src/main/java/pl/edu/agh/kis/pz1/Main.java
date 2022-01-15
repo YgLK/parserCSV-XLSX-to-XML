@@ -1,27 +1,26 @@
 package pl.edu.agh.kis.pz1;
 
-
 import java.util.logging.Logger;
 
 /**
- * Przykładowy kod do zajęć laboratoryjnych 2, 3, 4 z przedmiotu: Programowanie zaawansowane 1
- * @author Paweł Skrzyński
+ * Main class in which the
+ * ParserXML is run.
+ *
+ * @author  Jakub Szpunar
+ * @version 1.0
+ * @since   2022-01-02
  */
 public class Main {
     private static final Logger logger = Logger.getLogger(Thread.currentThread().getName());
 
+    // TODO: opisać metody w poszczególnych klasach, żeby były do javadoca - później wygenerować javadoc i sonar-cube
 
-    public static void main( String[] args ) throws Exception {
-
-
-        //TODO: zrobić testy do tego projektu w wolnym czasie/nocy żeby nie marnować na to dnia
-
-
-        // get filename to be converted to the xml format and
-        // name of the saved file
+    public static void main( String[] args ){
+        // get filename to be converted to the xml format and name of the saved file
         String filenameToOpen = args[0];
         String filenameToSave = args[1];
 
+        // check if filename to save is valid
         if(!filenameToSave.contains(".xml")){
             throw new IllegalArgumentException("Save filename must contain '.xml'");
         }
@@ -29,14 +28,14 @@ public class Main {
         // create list of invoices
         Invoices invoices = new Invoices();
 
-        // CSV - działa ok
+        // read csv file
         if(filenameToOpen.contains(".csv")){
             ReaderCSV readercsv = new ReaderCSV(invoices, filenameToOpen.trim());
             readercsv.readFromCSVfile();
             readercsv.getDataFromRecords();
             ExportXML.exportDataToXML(invoices, filenameToSave.trim());
+        // read xlsx file
         } else if(filenameToOpen.contains(".xlsx")){
-            // XLSX - działa ok, jedynie co poprawic nizej jest napisane
             ReaderXLSX readerXLSX = new ReaderXLSX(invoices, filenameToOpen.trim());
             readerXLSX.readFromXLSXfile();
             ExportXML.exportDataToXML(invoices, filenameToSave.trim());
@@ -44,15 +43,5 @@ public class Main {
             logger.info("ERROR: Inappropriate filename has been entered.\n" +
                     "Only .csv or .xlsx extensions are supported.");
         }
-
-
-        //TODO
-        // (wszystko tu oparte jest na pliku faktury-sprzedazowe-test.csv)
-        // trzeba znaleźć jakiś dobry konwerter csv do xlsx albo znalezc w necie te faktury, bo trace dane poprzez
-        // konwersje w Excelu po prostu i konwersja XLSX do XML ma dwa razy mniejsza dlugosc
-        // i wtedy sprawdzic czy z XLSX zajmie tyle samo linii
-        // UPDATE:
-            // według mnie excel po prostu gubi dane jak zapisuje z csv na xlsx - w xlsx duzo danych w 59 linii sie znajduje dziwnym trafem
-            // w csv też jakoś się tam kumuluje
     }
 }
