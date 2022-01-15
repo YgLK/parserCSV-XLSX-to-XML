@@ -23,7 +23,6 @@ public class ReaderCSV {
         Iterable<CSVRecord> records = null;
         {
             try {
-//                in = new FileReader("E:\\faktury-sprzedazowe-test.csv");
                 in = new FileReader(filename);
                 records = CSVFormat.EXCEL.withDelimiter('\t').parse(in);
             } catch (IOException e) {
@@ -35,9 +34,7 @@ public class ReaderCSV {
     }
 
     public void getDataFromRecords(){
-        int i = 0;
         for(CSVRecord cr : recordsFromCSV){
-            i += 1;
             invoices.getListInvoice().add((new Invoice()).setData(
                     cr.get(0),
                     cr.get(1),
@@ -58,7 +55,6 @@ public class ReaderCSV {
         }
         // to wykonuje 2 razy więcej iteracji niż powinno (109 iteracji przy ok. 58 rekordow w csv),
         // UPDATE: wykonuje dobrze (wklejalem do notatnika i jest ok 109 tych faktur),to właśnie xlsx jakoś ucina dane, które z csv przekonwertowałem na xlsx w excelu
-//        System.out.println("\n\n\n\n\n\n" + i + "\n\n\n\n\n\n");
     }
 
     public Iterable<CSVRecord> getRecordsFromCSV() {

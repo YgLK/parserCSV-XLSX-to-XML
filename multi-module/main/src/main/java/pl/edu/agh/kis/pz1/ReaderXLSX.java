@@ -3,6 +3,7 @@ package pl.edu.agh.kis.pz1;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.DataFormatter;
 import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
@@ -10,7 +11,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Iterator;
-import java.util.List;
+import java.util.Objects;
 
 public class ReaderXLSX {
     private Invoices invoices;
@@ -24,25 +25,26 @@ public class ReaderXLSX {
     public void readFromXLSXfile(){
         FileInputStream file = null;
         try {
-//            file = new FileInputStream("E:\\faktury-sprzedazowe-test.xlsx");
             file = new FileInputStream(filename);
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
-        XSSFWorkbook workbook = null;
-        try {
-            workbook = new XSSFWorkbook(file);
+
+        XSSFSheet sheet;
+        Iterator<Row> rowIterator = null;
+        try (XSSFWorkbook workbook = new XSSFWorkbook(file)){
+            //Pobierz pierwszy arkusz w pliku XLSX
+            sheet = workbook.getSheetAt(0);
+            //Wczytaj wiersze
+            rowIterator = sheet.iterator();
         } catch (IOException e) {
             e.printStackTrace();
         }
 
-        //Pobierz pierwszy arkusz w pliku XLSX
-        XSSFSheet sheet = workbook.getSheetAt(0);
-        //Wczytaj wiersze
-        Iterator<Row> rowIterator = sheet.iterator();
+
 
         // iterate through each
-        while (rowIterator.hasNext()) {
+        while (Objects.requireNonNull(rowIterator).hasNext()) {
             Row nextRow = rowIterator.next();
             Iterator<Cell> cellIterator = nextRow.cellIterator();
             StringBuilder rowStr = new StringBuilder();
@@ -56,10 +58,9 @@ public class ReaderXLSX {
                 rowStr.append(strValue);
             }
             // split whole row to get value of each column
-//            String[] cr = rowStr.toString().split("\t");
             ArrayList<String> cr = new ArrayList<>(Arrays.asList(rowStr.toString().split("\t")));
-            // put the data into the list of invoices
-            System.out.println(cr);
+
+            // --- put the data into the list of invoices ---
             // if row not fulfilled completely add blank text in the empty column values
             while(cr.size() < 15) {
                 cr.add(" ");
