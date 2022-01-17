@@ -18,9 +18,15 @@ import java.util.List;
 @XmlRootElement(name="faktury")
 @XmlAccessorType(XmlAccessType.FIELD)
 public class Invoices {
+    /** list of the invoices  */
     @XmlElement(name="faktura")
     private List<Invoice> listInvoice;
 
+    /**
+     * Invoices constructor which initializes
+     * Invoices list.
+     *
+     */
     Invoices(){
         listInvoice = new ArrayList<>();
     }

@@ -9,39 +9,72 @@ import java.io.Reader;
 
 
 /**
- * Class which helps read data
+ * Class which helps to read data
  * from CSV files.
  *
  */
 public class ReaderCSV {
+    /** records extracted from the CSV file */
     private Iterable<CSVRecord> recordsFromCSV;
+    /** list of the invoices */
     private Invoices invoices;
+    /** name of the CSV file */
     private String filename;
 
-
+    /**
+     * ReaderCSV constructor. ReaderCSV
+     * is responsible for reading data from the CSV file
+     * and making a list of the created invoices in the invoices
+     * field.
+     *
+     * @param invoices Class in which Invoice instances
+     *                 are stored
+     * @param filenameToOpen Name of the file from which Invoices data
+     *                       is read
+     */
     ReaderCSV(Invoices invoices, String filenameToOpen){
         this.invoices = invoices;
         this.filename = filenameToOpen;
     }
 
-    public void readFromCSVfile(){
+    /**
+     * The method is used for
+     * reading records from the CSV file.
+     *
+    */
+     public void readFromCSVfile(){
+        // create reader to read from the file
         Reader in;
+        // initialize records
         Iterable<CSVRecord> records = null;
         {
             try {
+                // create new FileReader associated with CSV file
                 in = new FileReader(filename);
+                // split data into the records
                 records = CSVFormat.EXCEL.withDelimiter('\t').parse(in);
             } catch (IOException e) {
                 e.printStackTrace();
             }
         }
 
+        // assign records to the class field
         recordsFromCSV = records;
     }
 
+    /**
+     * The method is used to prepare list
+     * of the invoices.
+     *
+     * For each record an invoice is created.
+     *
+     */
     public void getDataFromRecords(){
+        // go through each record
         for(CSVRecord cr : recordsFromCSV){
+            // add new invoice to the list
             invoices.getListInvoice().add((new Invoice()).setData(
+                    // extract columns' values from the record
                     cr.get(0),
                     cr.get(1),
                     cr.get(2),
@@ -59,9 +92,7 @@ public class ReaderCSV {
                     cr.get(14)
             ));
         }
-        // to wykonuje 2 razy więcej iteracji niż powinno (109 iteracji przy ok. 58 rekordow w csv),
-        // UPDATE: wykonuje dobrze (wklejalem do notatnika i jest ok 109 tych faktur),to właśnie xlsx jakoś ucina dane, które z csv przekonwertowałem na xlsx w excelu
-    }
+     }
 
     public Iterable<CSVRecord> getRecordsFromCSV() {
         return recordsFromCSV;

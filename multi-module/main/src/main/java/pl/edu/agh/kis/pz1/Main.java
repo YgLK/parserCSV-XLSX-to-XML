@@ -8,12 +8,11 @@ import java.util.logging.Logger;
  *
  * @author  Jakub Szpunar
  * @version 1.0
- * @since   2022-01-02
+ * @since   2022-01-15
  */
 public class Main {
     private static final Logger logger = Logger.getLogger(Thread.currentThread().getName());
 
-    // TODO: opisać metody w poszczególnych klasach, żeby były do javadoca - później wygenerować javadoc i sonar-cube
 
     public static void main( String[] args ){
         // get filename to be converted to the xml format and name of the saved file

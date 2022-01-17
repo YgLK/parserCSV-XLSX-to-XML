@@ -14,7 +14,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 @XmlRootElement(name="faktura")
 @XmlAccessorType(XmlAccessType.FIELD)
 public class Invoice {
-
+    // Ivoice data columns
     private String NazwaOdbiorcy;
     private String AdresOdbiorcy;
     private String NIPodbiorcy;
@@ -31,7 +31,27 @@ public class Invoice {
     private String CenaNettoFakturyLacznie;
     private String CenaBruttoFakturyLacznie;
 
-
+    /**
+     * Set invoice data.
+     *
+     * Columns data:
+     * @param nazwaOdbiorcy
+     * @param adresOdbiorcy
+     * @param nipOdbiorcy
+     * @param dataWystawienia
+     * @param dataSprzedazy
+     * @param nrFaktury
+     * @param tytulPozycji
+     * @param liczbaSztuk
+     * @param cenaJednostkowa
+     * @param stawkaPodatku_Procenty
+     * @param kwotaPodatku
+     * @param cenaNettoPozycji
+     * @param cenaBruttoPozycji
+     * @param cenaNettoFakturyLacznie
+     * @param cenaBruttoFakturyLacznie
+     * @return this
+     */
     public Invoice setData(
         String nazwaOdbiorcy,
         String adresOdbiorcy,
@@ -65,6 +85,7 @@ public class Invoice {
         this.setCenaNettoFakturyLacznie(cenaNettoFakturyLacznie);
         this.setCenaBruttoFakturyLacznie(cenaBruttoFakturyLacznie);
 
+        // return reference to the actual invoice in order to add it to the list
         return this;
     }
 
