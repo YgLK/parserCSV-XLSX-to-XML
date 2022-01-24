@@ -636,7 +636,7 @@
         <DataWystawienia>2020-11-12</DataWystawienia>
         <DataSprzedazy>2020-11-12</DataSprzedazy>
         <NrFaktury>1-12/11/2020</NrFaktury>
-        <TytulPozycji>Faktura korygująca, korekta dotyczy fv nr 2-09/11/2020 przyczyna korkty błędna kwota w pozycji nr 2 – Różnica do zwrotu - Innovative - prace projektowe oraz programistyczne związane z rozwojem, zgodnie z załącznikiem</TytulPozycji>
+        <TytulPozycji></TytulPozycji>
         <LiczbaSztuk>-0,81250</LiczbaSztuk>
         <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
         <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
@@ -932,25 +932,6 @@
         <KwotaPodatku>690,00 zł</KwotaPodatku>
         <CenaNettoPozycji>3 000,00 zł</CenaNettoPozycji>
         <CenaBruttoPozycji>3 690,00 zł</CenaBruttoPozycji>
-        <CenaNettoFakturyLacznie>85 833,75 zł</CenaNettoFakturyLacznie>
-        <CenaBruttoFakturyLacznie>105 575,51 zł</CenaBruttoFakturyLacznie>
-    </faktura>
-    <faktura>
-        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
-        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
-        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
-        <DataWystawienia>2020-11-25</DataWystawienia>
-        <DataSprzedazy>2020-11-25</DataSprzedazy>
-        <NrFaktury>3-25/11/2020</NrFaktury>
-        <TytulPozycji>Prace rozwojowe - #69401 : Dodatki po audycie UX
-
-</TytulPozycji>
-        <LiczbaSztuk>2</LiczbaSztuk>
-        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
-        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
-        <KwotaPodatku>460,00 zł</KwotaPodatku>
-        <CenaNettoPozycji>2 000,00 zł</CenaNettoPozycji>
-        <CenaBruttoPozycji>2 460,00 zł</CenaBruttoPozycji>
         <CenaNettoFakturyLacznie>85 833,75 zł</CenaNettoFakturyLacznie>
         <CenaBruttoFakturyLacznie>105 575,51 zł</CenaBruttoFakturyLacznie>
     </faktura>
@@ -1838,4 +1819,14 @@
         <CenaNettoFakturyLacznie>13 431,25 zł</CenaNettoFakturyLacznie>
         <CenaBruttoFakturyLacznie>16 520,44 zł</CenaBruttoFakturyLacznie>
     </faktura>
+    <faktura>
+        <RodzajFaktury>KOREKTA</RodzajFaktury>
+        <PrzyczynaKorekty>Faktura korygująca, korekta dotyczy fv nr 2-09/11/2020 przyczyna korkty błędna kwota w pozycji nr 2 – Różnica do zwrotu - Innovative - prace projektowe oraz programistyczne związane z rozwojem, zgodnie z załącznikiem</PrzyczynaKorekty>
+        <NrFaKorygowanej>Od 2020-11-12 do 2020-11-12</NrFaKorygowanej>
+        <OkresFaKorygowanej>2-09/11/20202</OkresFaKorygowanej>
+    </faktura>
+    <FakturaCtrl>
+        <LiczbaWierszyFaktur>108</LiczbaWierszyFaktur>
+        <WartoscWierszyFaktur>7473345.28 zł</WartoscWierszyFaktur>
+    </FakturaCtrl>
 </faktury>

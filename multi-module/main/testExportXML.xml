@@ -68,4 +68,14 @@
         <CenaNettoFakturyLacznie>14</CenaNettoFakturyLacznie>
         <CenaBruttoFakturyLacznie>15</CenaBruttoFakturyLacznie>
     </faktura>
+    <faktura>
+        <RodzajFaktury>KOREKTA</RodzajFaktury>
+        <PrzyczynaKorekty></PrzyczynaKorekty>
+        <NrFaKorygowanej></NrFaKorygowanej>
+        <OkresFaKorygowanej></OkresFaKorygowanej>
+    </faktura>
+    <FakturaCtrl>
+        <LiczbaWierszyFaktur>0</LiczbaWierszyFaktur>
+        <WartoscWierszyFaktur></WartoscWierszyFaktur>
+    </FakturaCtrl>
 </faktury>

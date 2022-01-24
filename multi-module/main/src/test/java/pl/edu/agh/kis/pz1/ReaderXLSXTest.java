@@ -13,9 +13,11 @@ public class ReaderXLSXTest {
     @Test
     public void testIfAllInvoicesAreReadFromFile(){
         Invoices invoices = new Invoices();
+        Summary sum = new Summary();
+        InvoiceCorrection invoiceCorrection = new InvoiceCorrection();
         String path = "src/test/java/inv-test.xlsx";
 
-        ReaderXLSX readerXLSX = new ReaderXLSX(invoices, path);
+        ReaderXLSX readerXLSX = new ReaderXLSX(invoices, invoiceCorrection, path);
         // read data from csv test file and get data from records
         readerXLSX.readFromXLSXfile();
 

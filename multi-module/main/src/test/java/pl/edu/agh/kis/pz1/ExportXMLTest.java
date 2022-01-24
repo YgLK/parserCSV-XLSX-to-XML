@@ -15,8 +15,9 @@ import java.io.IOException;
 public class ExportXMLTest{
 
     @Test
-    public void shouldCreateMainObject() throws IOException {
+    public void shouldExportDataToXMLFile() throws IOException {
         Invoices invoices = new Invoices();
+        Summary sum = new Summary();
 
         // add 5 invoices to the list
         for(int i=0; i<5; i++){

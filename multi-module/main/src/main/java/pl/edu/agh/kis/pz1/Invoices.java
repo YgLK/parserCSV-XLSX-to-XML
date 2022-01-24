@@ -21,6 +21,10 @@ public class Invoices {
     /** list of the invoices  */
     @XmlElement(name="faktura")
     private List<Invoice> listInvoice;
+    @XmlElement(name="faktura")
+    private InvoiceCorrection invoiceCorrection;
+    @XmlElement(name="FakturaCtrl")
+    private Summary summary;
 
     /**
      * Invoices constructor which initializes
@@ -29,6 +33,8 @@ public class Invoices {
      */
     Invoices(){
         listInvoice = new ArrayList<>();
+        summary = new Summary();
+        invoiceCorrection = new InvoiceCorrection();
     }
 
     public List<Invoice> getListInvoice() {
@@ -37,5 +43,21 @@ public class Invoices {
 
     public void setListInvoices(List<Invoice> listInvoice) {
         this.listInvoice = listInvoice;
+    }
+
+    public Summary getSummary() {
+        return summary;
+    }
+
+    public void setSummary(Summary summary) {
+        this.summary = summary;
+    }
+
+    public InvoiceCorrection getInvoiceCorrection() {
+        return invoiceCorrection;
+    }
+
+    public void setInvoiceCorrection(InvoiceCorrection invoiceCorrection) {
+        this.invoiceCorrection = invoiceCorrection;
     }
 }

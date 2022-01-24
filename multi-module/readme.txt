@@ -10,5 +10,8 @@
     java -jar .\main-1.0-jar-with-dependencies.jar fileToConvert.xlsx outputFilename.xml
 5. Output XML file is located in the same directory as Java JAR file.
 
-Parser is compatible and built for the use with faktury-sprzedazowe-test.csv file.
+Parser is compatible and built for the use with dane.csv or dane.xlsx file.
 Convert it to the XLSX file and run the parser to see that it works either for the XLSX format.
+
+You can change delimiters for CSV here:
+ReaderCSV.java in the line 58 [Current delimiter: "\t"]

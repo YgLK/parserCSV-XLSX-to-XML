@@ -27,15 +27,21 @@ public class Main {
         // create list of invoices
         Invoices invoices = new Invoices();
 
+        // create sum
+        Summary sum = new Summary();
+
+        // create correction invoice
+        InvoiceCorrection invoiceCorrection = new InvoiceCorrection();
+
         // read csv file
         if(filenameToOpen.contains(".csv")){
-            ReaderCSV readercsv = new ReaderCSV(invoices, filenameToOpen.trim());
+            ReaderCSV readercsv = new ReaderCSV(invoices, sum, invoiceCorrection, filenameToOpen.trim());
             readercsv.readFromCSVfile();
             readercsv.getDataFromRecords();
             ExportXML.exportDataToXML(invoices, filenameToSave.trim());
         // read xlsx file
         } else if(filenameToOpen.contains(".xlsx")){
-            ReaderXLSX readerXLSX = new ReaderXLSX(invoices, filenameToOpen.trim());
+            ReaderXLSX readerXLSX = new ReaderXLSX(invoices, invoiceCorrection, filenameToOpen.trim());
             readerXLSX.readFromXLSXfile();
             ExportXML.exportDataToXML(invoices, filenameToSave.trim());
         } else {

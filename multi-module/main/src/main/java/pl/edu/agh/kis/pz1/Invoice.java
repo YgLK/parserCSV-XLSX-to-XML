@@ -11,10 +11,12 @@ import javax.xml.bind.annotation.XmlRootElement;
  * fields.
  *
  */
+// set root element name to faktura
 @XmlRootElement(name="faktura")
+// every FIELD will be automatically bound to XML
 @XmlAccessorType(XmlAccessType.FIELD)
 public class Invoice {
-    // Ivoice data columns
+    // Invoice data columns
     private String NazwaOdbiorcy;
     private String AdresOdbiorcy;
     private String NIPodbiorcy;

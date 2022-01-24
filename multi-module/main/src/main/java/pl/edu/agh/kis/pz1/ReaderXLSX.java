@@ -8,7 +8,6 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 import java.io.*;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Iterator;
 import java.util.Objects;
 
@@ -23,6 +22,10 @@ public class ReaderXLSX {
     private Invoices invoices;
     /** name of the XLSX file */
     private String filename;
+    /** correction invoice */
+    private InvoiceCorrection invoiceCorrection;
+
+
 
     /**
      * ReaderXLSX constructor. ReaderXLSX
@@ -35,10 +38,13 @@ public class ReaderXLSX {
      * @param filenameToOpen Name of the file from which Invoices data
      *                       is read
      */
-    ReaderXLSX(Invoices invoices, String filenameToOpen){
+    ReaderXLSX(Invoices invoices, InvoiceCorrection invoiceCorrection,  String filenameToOpen){
         this.invoices = invoices;
         this.filename = filenameToOpen;
+        this.invoiceCorrection = invoiceCorrection;
     }
+
+
 
     /**
      * The method is used for
@@ -69,6 +75,13 @@ public class ReaderXLSX {
         }
 
 
+        // initialize sum of invoices values
+        Float sumVal = (float) 0;
+
+        ArrayList<ArrayList<String>> columnValues = new ArrayList<>();
+        for(int i = 0; i < 15; i++){
+            columnValues.add(new ArrayList<>());
+        }
         // iterate through each row
         while (Objects.requireNonNull(rowIterator).hasNext()) {
             // get next row
@@ -76,47 +89,101 @@ public class ReaderXLSX {
             // through each cell iterator
             Iterator<Cell> cellIterator = nextRow.cellIterator();
             // row data in the string
-            StringBuilder rowStr = new StringBuilder();
             // iterate through each cell in the row
+            String col0 = ""; String col1 = ""; String col2 = ""; String col3 = "";
+            String col4 = ""; String col5 = ""; String col6 = ""; String col7 = "";
+            String col8 = ""; String col9 = ""; String col10 = ""; String col11 = "";
+            String col12 = ""; String col13 = ""; String col14 = "";
             while(cellIterator.hasNext()) {
+                StringBuilder rowStr = new StringBuilder();
                 // get next cell
                 Cell nextCell = cellIterator.next();
                 // get string value of the cell
                 DataFormatter formatter = new DataFormatter();
                 String strValue = formatter.formatCellValue(nextCell);
-                // sum the text in the rowStr representing text in the whole Row
-                rowStr.append(strValue);
+                // get value of each column in the current row
+                if(nextCell.getColumnIndex() == 0){
+                    col0 = strValue;
+                } else if(nextCell.getColumnIndex() == 1) {
+                    col1 = strValue;
+                }else if(nextCell.getColumnIndex() == 2){
+                    col2 = strValue;
+                }else if(nextCell.getColumnIndex() == 3){
+                    col3 = strValue;
+                }else if(nextCell.getColumnIndex() == 4){
+                    col4 = strValue;
+                }else if(nextCell.getColumnIndex() == 5){
+                    col5 = strValue;
+                }else if(nextCell.getColumnIndex() == 6){
+                    if(strValue.contains("Faktura korygująca")){
+                        invoiceCorrection.setPrzyczynaKorekty(strValue);
+                        invoiceCorrection.setNrFaKorygowanej("Od " + col3 + " do " + col4);
+                        String interval =  strValue.replaceAll("[^(0-9)/-]", "");
+                        invoiceCorrection.setOkresFaKorygowanej(interval.substring(0, interval.length() - 2));
+                        continue;
+                    }
+                    col6 = strValue;
+                }else if(nextCell.getColumnIndex() == 7){
+                    col7 = strValue;
+                }else if(nextCell.getColumnIndex() == 8){
+                    col8 = strValue;
+                }else if(nextCell.getColumnIndex() == 9){
+                    col9 = strValue;
+                }else if(nextCell.getColumnIndex() == 10){
+                    col10 = strValue;
+                }else if(nextCell.getColumnIndex() == 11){
+                    col11 = strValue;
+                }else if(nextCell.getColumnIndex() == 12){
+                    col12 = strValue;
+                }else if(nextCell.getColumnIndex() == 13){
+                    col13 = strValue;
+                }else if(nextCell.getColumnIndex() == 14) {
+                    col14 = strValue;
+                }
             }
-            // split whole row to get value of each column
-            ArrayList<String> cr = new ArrayList<>(Arrays.asList(rowStr.toString().split("\t")));
 
-            // --- put the data into the list of invoices ---
-            // if row not fulfilled completely add blank text in the empty column values
-            while(cr.size() < 15) {
-                cr.add(" ");
-            }
-            // add new invoice to the list
             invoices.getListInvoice().add((new Invoice()).setData(
-                    cr.get(0),
-                    cr.get(1),
-                    cr.get(2),
-                    cr.get(3),
-                    cr.get(4),
-                    cr.get(5),
-                    cr.get(6),
-                    cr.get(7),
-                    cr.get(8),
-                    cr.get(9),
-                    cr.get(10),
-                    cr.get(11),
-                    cr.get(12),
-                    cr.get(13),
-                    cr.get(14)
+                    col0,
+                    col1,
+                    col2,
+                    col3,
+                    col4,
+                    col5,
+                    col6,
+                    col7,
+                    col8,
+                    col9,
+                    col10,
+                    col11,
+                    col12,
+                    col13,
+                    col14
             ));
+            this.getInvoices().getSummary().setLiczbaFaktur(this.getInvoices().getListInvoice().size());
+
+            String digit = col14.replaceAll("[\\D]", "");
+
+            if(digit.length() > 0) {
+                sumVal += Float.parseFloat(digit);
+            }
         }
+
+        this.getInvoices().getSummary().setWartoscFaktur(
+                String.valueOf(sumVal * 0.01) + " zł"
+        );
+
+        this.getInvoices().setInvoiceCorrection(this.getInvoiceCorrection());
     }
 
     public Invoices getInvoices() {
         return invoices;
+    }
+
+    public InvoiceCorrection getInvoiceCorrection() {
+        return invoiceCorrection;
+    }
+
+    public void setInvoiceCorrection(InvoiceCorrection invoiceCorrection) {
+        this.invoiceCorrection = invoiceCorrection;
     }
 }

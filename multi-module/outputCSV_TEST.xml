@@ -1,0 +1,1834 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<faktury>
+    <faktura>
+        <NazwaOdbiorcy>Firma5 SP. Z O.O.</NazwaOdbiorcy>
+        <AdresOdbiorcy>UL. FELIKSA RADWAŃSKIEGO 15/1, 30-065 KRAKÓW</AdresOdbiorcy>
+        <NIPodbiorcy>634-27-26-447</NIPodbiorcy>
+        <DataWystawienia>2020-10-09</DataWystawienia>
+        <DataSprzedazy>2020-10-09</DataSprzedazy>
+        <NrFaktury>3-09/10/2020</NrFaktury>
+        <TytulPozycji>Czynsz z tytułu najmu powierzchni w budynku przy ul. Radwańskiego 15 w Krakowie za Październik 2020</TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>3 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>690,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>3 000,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>3 690,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>3 000,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>3 690,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma6 SP. Z O.O.</NazwaOdbiorcy>
+        <AdresOdbiorcy>UL. FELIKSA RADWAŃSKIEGO 15/1, 30-065 KRAKÓW</AdresOdbiorcy>
+        <NIPodbiorcy>676-247-94-12</NIPodbiorcy>
+        <DataWystawienia>2020-10-09</DataWystawienia>
+        <DataSprzedazy>2020-10-09</DataSprzedazy>
+        <NrFaktury>4-09/10/2020</NrFaktury>
+        <TytulPozycji>Czynsz z tytułu najmu powierzchni w budynku przy ul. Radwańskiego 15 w Krakowie za Październik 2020</TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>7 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>1 610,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>7 000,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>8 610,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>7 000,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>8 610,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma10 Sp. z o.o.</NazwaOdbiorcy>
+        <AdresOdbiorcy>UL. PODGÓRKI TYNIECKIE 91, 30-398 KRAKÓW</AdresOdbiorcy>
+        <NIPodbiorcy>676-256-68-84</NIPodbiorcy>
+        <DataWystawienia>2020-10-13</DataWystawienia>
+        <DataSprzedazy>2020-10-13</DataSprzedazy>
+        <NrFaktury>1-13/10/2020</NrFaktury>
+        <TytulPozycji>Najem pomieszczeń biurowych, Radwańskiego 15, 1 piętro, 2 miesiące.</TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>3 774,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>868,02 zł</KwotaPodatku>
+        <CenaNettoPozycji>3 774,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>4 642,02 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>3 774,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>4 642,02 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-10-14</DataWystawienia>
+        <DataSprzedazy>2020-10-14</DataSprzedazy>
+        <NrFaktury>3-14/10/2020</NrFaktury>
+        <TytulPozycji>1. Prace rozwojowe - #68074 : Lista endpointów</TytulPozycji>
+        <LiczbaSztuk>4,75</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>1 092,50 zł</KwotaPodatku>
+        <CenaNettoPozycji>4 750,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>5 842,50 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>76 250,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>93 787,50 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-10-14</DataWystawienia>
+        <DataSprzedazy>2020-10-14</DataSprzedazy>
+        <NrFaktury>3-14/10/2020</NrFaktury>
+        <TytulPozycji>2. Prace rozwojowe - #67995 : Zlecenie UX - sprint 2</TytulPozycji>
+        <LiczbaSztuk>55</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>12 650,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>55 000,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>67 650,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>76 250,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>93 787,50 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-10-14</DataWystawienia>
+        <DataSprzedazy>2020-10-14</DataSprzedazy>
+        <NrFaktury>3-14/10/2020</NrFaktury>
+        <TytulPozycji>3. Prace rozwojowe - #67996 : Wyszukiwarka z podpowiedziami i Dodatkowa informacja</TytulPozycji>
+        <LiczbaSztuk>10</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>2 300,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>10 000,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>12 300,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>76 250,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>93 787,50 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-10-14</DataWystawienia>
+        <DataSprzedazy>2020-10-14</DataSprzedazy>
+        <NrFaktury>3-14/10/2020</NrFaktury>
+        <TytulPozycji>4. Prace rozwojowe - #67810 : Wysyłka maila do handlowca po wykonaniu zadania weryfikacji dowodu rejestracyjnego</TytulPozycji>
+        <LiczbaSztuk>0,75</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>172,50 zł</KwotaPodatku>
+        <CenaNettoPozycji>750,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>922,50 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>76 250,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>93 787,50 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-10-14</DataWystawienia>
+        <DataSprzedazy>2020-10-14</DataSprzedazy>
+        <NrFaktury>3-14/10/2020</NrFaktury>
+        <TytulPozycji>5. Prace rozwojowe - #68291 : Modyfikacja parametru obsługi marży</TytulPozycji>
+        <LiczbaSztuk>2</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>460,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>2 000,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>2 460,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>76 250,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>93 787,50 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-10-14</DataWystawienia>
+        <DataSprzedazy>2020-10-14</DataSprzedazy>
+        <NrFaktury>3-14/10/2020</NrFaktury>
+        <TytulPozycji>6. Prace rozwojowe - #68331 : Dołącz do nas - projekt graficzny</TytulPozycji>
+        <LiczbaSztuk>1,5</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>345,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>1 500,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>1 845,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>76 250,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>93 787,50 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-10-14</DataWystawienia>
+        <DataSprzedazy>2020-10-14</DataSprzedazy>
+        <NrFaktury>3-14/10/2020</NrFaktury>
+        <TytulPozycji>7. Prace rozwojowe - #68685 : Zmiany w procesie logistycznym (zagadnienia 1-3)</TytulPozycji>
+        <LiczbaSztuk>2,25</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>517,50 zł</KwotaPodatku>
+        <CenaNettoPozycji>2 250,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>2 767,50 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>76 250,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>93 787,50 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma2</NazwaOdbiorcy>
+        <AdresOdbiorcy>Ul. Zamkowa 1, 31 – 200 Kraków </AdresOdbiorcy>
+        <NIPodbiorcy>552-151-68-49</NIPodbiorcy>
+        <DataWystawienia>2020-10-15</DataWystawienia>
+        <DataSprzedazy>2020-10-15</DataSprzedazy>
+        <NrFaktury>1-15/10/2020</NrFaktury>
+        <TytulPozycji>Zakup serwerów oraz komputerów – jednostek centralnych (klienckich), zgodnie z umową nr  1/UD/2020 </TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>33 739,84 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>7 760,16 zł</KwotaPodatku>
+        <CenaNettoPozycji>33 739,84 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>41 500,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>161 382,11 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>198 500,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma2</NazwaOdbiorcy>
+        <AdresOdbiorcy>Ul. Zamkowa 1, 31 – 200 Kraków </AdresOdbiorcy>
+        <NIPodbiorcy>552-151-68-49</NIPodbiorcy>
+        <DataWystawienia>2020-10-15</DataWystawienia>
+        <DataSprzedazy>2020-10-15</DataSprzedazy>
+        <NrFaktury>1-15/10/2020</NrFaktury>
+        <TytulPozycji>Zakup drukarki do elektronicznych legitymacji, zgodnie z umową nr  1/UD/2020 </TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>21 951,22 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>5 048,78 zł</KwotaPodatku>
+        <CenaNettoPozycji>21 951,22 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>27 000,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>161 382,11 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>198 500,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma2</NazwaOdbiorcy>
+        <AdresOdbiorcy>Ul. Zamkowa 1, 31 – 200 Kraków </AdresOdbiorcy>
+        <NIPodbiorcy>552-151-68-49</NIPodbiorcy>
+        <DataWystawienia>2020-10-15</DataWystawienia>
+        <DataSprzedazy>2020-10-15</DataSprzedazy>
+        <NrFaktury>1-15/10/2020</NrFaktury>
+        <TytulPozycji>Wdrożenie poszczególnych modułów wraz zakupem oprogramowania, zgodnie z umową nr  1/UD/2020 </TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>22 764,23 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>5 235,77 zł</KwotaPodatku>
+        <CenaNettoPozycji>22 764,23 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>28 000,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>161 382,11 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>198 500,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma2</NazwaOdbiorcy>
+        <AdresOdbiorcy>Ul. Zamkowa 1, 31 – 200 Kraków </AdresOdbiorcy>
+        <NIPodbiorcy>552-151-68-49</NIPodbiorcy>
+        <DataWystawienia>2020-10-15</DataWystawienia>
+        <DataSprzedazy>2020-10-15</DataSprzedazy>
+        <NrFaktury>1-15/10/2020</NrFaktury>
+        <TytulPozycji>Migracja danych do nowego systemu, zgodnie z umową nr  1/UD/2020 </TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>26 829,27 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>6 170,73 zł</KwotaPodatku>
+        <CenaNettoPozycji>26 829,27 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>33 000,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>161 382,11 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>198 500,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma2</NazwaOdbiorcy>
+        <AdresOdbiorcy>Ul. Zamkowa 1, 31 – 200 Kraków </AdresOdbiorcy>
+        <NIPodbiorcy>552-151-68-49</NIPodbiorcy>
+        <DataWystawienia>2020-10-15</DataWystawienia>
+        <DataSprzedazy>2020-10-15</DataSprzedazy>
+        <NrFaktury>1-15/10/2020</NrFaktury>
+        <TytulPozycji>Wdrożenie systemu – oprogramowanie do obsługi systemów, zgodnie z umową nr  1/UD/2020 </TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>17 886,18 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>4 113,82 zł</KwotaPodatku>
+        <CenaNettoPozycji>17 886,18 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>22 000,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>161 382,11 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>198 500,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma2</NazwaOdbiorcy>
+        <AdresOdbiorcy>Ul. Zamkowa 1, 31 – 200 Kraków </AdresOdbiorcy>
+        <NIPodbiorcy>552-151-68-49</NIPodbiorcy>
+        <DataWystawienia>2020-10-15</DataWystawienia>
+        <DataSprzedazy>2020-10-15</DataSprzedazy>
+        <NrFaktury>1-15/10/2020</NrFaktury>
+        <TytulPozycji>Szkolenia dla kadry i pracowników wdrażanych komponentów Systemu USOS, zgodnie z umową nr  1/UD/2020 </TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>23 577,24 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>5 422,76 zł</KwotaPodatku>
+        <CenaNettoPozycji>23 577,24 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>29 000,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>161 382,11 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>198 500,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma2</NazwaOdbiorcy>
+        <AdresOdbiorcy>Ul. Zamkowa 1, 31 – 200 Kraków </AdresOdbiorcy>
+        <NIPodbiorcy>552-151-68-49</NIPodbiorcy>
+        <DataWystawienia>2020-10-15</DataWystawienia>
+        <DataSprzedazy>2020-10-15</DataSprzedazy>
+        <NrFaktury>1-15/10/2020</NrFaktury>
+        <TytulPozycji>Obsługa administracyjna, zgodnie z umową nr  1/UD/2020 </TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>14 634,15 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>3 365,85 zł</KwotaPodatku>
+        <CenaNettoPozycji>14 634,15 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>18 000,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>161 382,11 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>198 500,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma2</NazwaOdbiorcy>
+        <AdresOdbiorcy>Ul. Zamkowa 1, 31 – 200 Kraków </AdresOdbiorcy>
+        <NIPodbiorcy>552-151-68-49</NIPodbiorcy>
+        <DataWystawienia>2020-10-15</DataWystawienia>
+        <DataSprzedazy>2020-10-15</DataSprzedazy>
+        <NrFaktury>2-15/10/2020</NrFaktury>
+        <TytulPozycji>Wdrożenie systemu kształcenia na odległość - unowocześnienie platformy e-learningowej, zgodnie z umową nr 4/UD/2020</TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>31 707,32 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>7 292,68 zł</KwotaPodatku>
+        <CenaNettoPozycji>31 707,32 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>39 000,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>48 739,84 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>59 950,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma2</NazwaOdbiorcy>
+        <AdresOdbiorcy>Ul. Zamkowa 1, 31 – 200 Kraków </AdresOdbiorcy>
+        <NIPodbiorcy>552-151-68-49</NIPodbiorcy>
+        <DataWystawienia>2020-10-15</DataWystawienia>
+        <DataSprzedazy>2020-10-15</DataSprzedazy>
+        <NrFaktury>2-15/10/2020</NrFaktury>
+        <TytulPozycji>Wdrożenie systemu kształcenia na odległość – e-learning - szkolenia dla pracowników, zgodnie z umową nr 4/UD/2020</TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>10 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>2 300,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>10 000,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>12 300,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>48 739,84 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>59 950,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma2</NazwaOdbiorcy>
+        <AdresOdbiorcy>Ul. Zamkowa 1, 31 – 200 Kraków </AdresOdbiorcy>
+        <NIPodbiorcy>552-151-68-49</NIPodbiorcy>
+        <DataWystawienia>2020-10-15</DataWystawienia>
+        <DataSprzedazy>2020-10-15</DataSprzedazy>
+        <NrFaktury>2-15/10/2020</NrFaktury>
+        <TytulPozycji>Wdrożenie systemu kształcenia na odległość - e-learning – serwer wirtualny, zgodnie z umową nr 4/UD/2020</TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>2 032,52 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>467,48 zł</KwotaPodatku>
+        <CenaNettoPozycji>2 032,52 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>2 500,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>48 739,84 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>59 950,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma2</NazwaOdbiorcy>
+        <AdresOdbiorcy>Ul. Zamkowa 1, 31 – 200 Kraków </AdresOdbiorcy>
+        <NIPodbiorcy>552-151-68-49</NIPodbiorcy>
+        <DataWystawienia>2020-10-15</DataWystawienia>
+        <DataSprzedazy>2020-10-15</DataSprzedazy>
+        <NrFaktury>2-15/10/2020</NrFaktury>
+        <TytulPozycji>Wdrożenie systemu kształcenia na odległość - e-learning  - implementacja kursów na platformę, zgodnie z umową nr 4/UD/2020</TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>5 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>1 150,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>5 000,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>6 150,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>48 739,84 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>59 950,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma2</NazwaOdbiorcy>
+        <AdresOdbiorcy>Ul. Zamkowa 1, 31 – 200 Kraków </AdresOdbiorcy>
+        <NIPodbiorcy>552-151-68-49</NIPodbiorcy>
+        <DataWystawienia>2020-10-15</DataWystawienia>
+        <DataSprzedazy>2020-10-15</DataSprzedazy>
+        <NrFaktury>3-15/10/2020</NrFaktury>
+        <TytulPozycji>Komputer wraz z systemem operacyjnym, zgodnie z umową nr 1/PK/2020</TytulPozycji>
+        <LiczbaSztuk>24</LiczbaSztuk>
+        <CenaJednostkowa>6 351,63 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>35 060,98 zł</KwotaPodatku>
+        <CenaNettoPozycji>152 439,02 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>187 500,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>173 983,74 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>214 000,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma2</NazwaOdbiorcy>
+        <AdresOdbiorcy>Ul. Zamkowa 1, 31 – 200 Kraków </AdresOdbiorcy>
+        <NIPodbiorcy>552-151-68-49</NIPodbiorcy>
+        <DataWystawienia>2020-10-15</DataWystawienia>
+        <DataSprzedazy>2020-10-15</DataSprzedazy>
+        <NrFaktury>3-15/10/2020</NrFaktury>
+        <TytulPozycji>Oprogramowanie sprzedażowe, zgodnie z umową nr 1/PK/2020</TytulPozycji>
+        <LiczbaSztuk>24</LiczbaSztuk>
+        <CenaJednostkowa>406,50 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>2 243,90 zł</KwotaPodatku>
+        <CenaNettoPozycji>9 756,10 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>12 000,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>173 983,74 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>214 000,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma2</NazwaOdbiorcy>
+        <AdresOdbiorcy>Ul. Zamkowa 1, 31 – 200 Kraków </AdresOdbiorcy>
+        <NIPodbiorcy>552-151-68-49</NIPodbiorcy>
+        <DataWystawienia>2020-10-15</DataWystawienia>
+        <DataSprzedazy>2020-10-15</DataSprzedazy>
+        <NrFaktury>3-15/10/2020</NrFaktury>
+        <TytulPozycji>Oprogramowanie finansowo – księgowe, zgodnie z umową nr 1/PK/2020</TytulPozycji>
+        <LiczbaSztuk>24</LiczbaSztuk>
+        <CenaJednostkowa>406,50 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>2 243,90 zł</KwotaPodatku>
+        <CenaNettoPozycji>9 756,10 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>12 000,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>173 983,74 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>214 000,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma2</NazwaOdbiorcy>
+        <AdresOdbiorcy>Ul. Zamkowa 1, 31 – 200 Kraków </AdresOdbiorcy>
+        <NIPodbiorcy>552-151-68-49</NIPodbiorcy>
+        <DataWystawienia>2020-10-15</DataWystawienia>
+        <DataSprzedazy>2020-10-15</DataSprzedazy>
+        <NrFaktury>3-15/10/2020</NrFaktury>
+        <TytulPozycji>Router, zgodnie z umową nr 1/PK/2020</TytulPozycji>
+        <LiczbaSztuk>2</LiczbaSztuk>
+        <CenaJednostkowa>406,51 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>186,99 zł</KwotaPodatku>
+        <CenaNettoPozycji>813,01 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>1 000,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>173 983,74 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>214 000,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma2</NazwaOdbiorcy>
+        <AdresOdbiorcy>Ul. Zamkowa 1, 31 – 200 Kraków </AdresOdbiorcy>
+        <NIPodbiorcy>552-151-68-49</NIPodbiorcy>
+        <DataWystawienia>2020-10-15</DataWystawienia>
+        <DataSprzedazy>2020-10-15</DataSprzedazy>
+        <NrFaktury>3-15/10/2020</NrFaktury>
+        <TytulPozycji>Switch, zgodnie z umową nr 1/PK/2020</TytulPozycji>
+        <LiczbaSztuk>2</LiczbaSztuk>
+        <CenaJednostkowa>528,46 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>243,09 zł</KwotaPodatku>
+        <CenaNettoPozycji>1 056,91 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>1 300,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>173 983,74 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>214 000,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma2</NazwaOdbiorcy>
+        <AdresOdbiorcy>Ul. Zamkowa 1, 31 – 200 Kraków </AdresOdbiorcy>
+        <NIPodbiorcy>552-151-68-49</NIPodbiorcy>
+        <DataWystawienia>2020-10-15</DataWystawienia>
+        <DataSprzedazy>2020-10-15</DataSprzedazy>
+        <NrFaktury>3-15/10/2020</NrFaktury>
+        <TytulPozycji>Okablowanie (2m), zgodnie z umową nr 1/PK/2020</TytulPozycji>
+        <LiczbaSztuk>28</LiczbaSztuk>
+        <CenaJednostkowa>2,90 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>18,70 zł</KwotaPodatku>
+        <CenaNettoPozycji>81,30 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>100,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>173 983,74 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>214 000,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma2</NazwaOdbiorcy>
+        <AdresOdbiorcy>Ul. Zamkowa 1, 31 – 200 Kraków </AdresOdbiorcy>
+        <NIPodbiorcy>552-151-68-49</NIPodbiorcy>
+        <DataWystawienia>2020-10-15</DataWystawienia>
+        <DataSprzedazy>2020-10-15</DataSprzedazy>
+        <NrFaktury>3-15/10/2020</NrFaktury>
+        <TytulPozycji>Okablowanie (1,5m), zgodnie z umową nr 1/PK/2020</TytulPozycji>
+        <LiczbaSztuk>24</LiczbaSztuk>
+        <CenaJednostkowa>3,39 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>18,70 zł</KwotaPodatku>
+        <CenaNettoPozycji>81,30 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>100,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>173 983,74 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>214 000,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma2</NazwaOdbiorcy>
+        <AdresOdbiorcy>Ul. Zamkowa 1, 31 – 200 Kraków </AdresOdbiorcy>
+        <NIPodbiorcy>552-151-68-49</NIPodbiorcy>
+        <DataWystawienia>2020-10-16</DataWystawienia>
+        <DataSprzedazy>2020-10-16</DataSprzedazy>
+        <NrFaktury>1-16/10/2020</NrFaktury>
+        <TytulPozycji>Informatyczne narzędzia edukacyjne</TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>1 268,29 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>291,71 zł</KwotaPodatku>
+        <CenaNettoPozycji>1 268,29 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>1 560,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>1 268,29 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>1 560,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma9 SP. Z O.O.</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. Dobra 28, 00-344 Warszawa</AdresOdbiorcy>
+        <NIPodbiorcy>118-16-48-603</NIPodbiorcy>
+        <DataWystawienia>2020-11-05</DataWystawienia>
+        <DataSprzedazy>2020-10-30</DataSprzedazy>
+        <NrFaktury>1-05/11/2020</NrFaktury>
+        <TytulPozycji>NAJEM SERWERA ZA OKRES 10.2020 (SPECYFIKACJA ZGODNA Z UMOWĄ)   </TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>13 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>2 990,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>13 000,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>15 990,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>13 000,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>15 990,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>675-152-93-71</NIPodbiorcy>
+        <DataWystawienia>2020-11-05</DataWystawienia>
+        <DataSprzedazy>2020-10-30</DataSprzedazy>
+        <NrFaktury>2-05/11/2020</NrFaktury>
+        <TytulPozycji>Zarządzanie infrastrukturą serwerową oraz usługami dla projektu Innovative- ZGODNIE Z RAPORTEM</TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>3 909,38 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>899,16 zł</KwotaPodatku>
+        <CenaNettoPozycji>3 909,38 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>4 808,54 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>3 909,38 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>4 808,54 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma4</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. MICKIEWICZA 1/5, 33-100 TARNÓW</AdresOdbiorcy>
+        <NIPodbiorcy>873-171-75-73</NIPodbiorcy>
+        <DataWystawienia>2020-11-05</DataWystawienia>
+        <DataSprzedazy>2020-10-30</DataSprzedazy>
+        <NrFaktury>3-05/11/2020</NrFaktury>
+        <TytulPozycji>Urządzenia GPS – terminale/montaż – październik 2020 zgodnie z załącznikiem </TytulPozycji>
+        <LiczbaSztuk>63</LiczbaSztuk>
+        <CenaJednostkowa>280,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>4 057,20 zł</KwotaPodatku>
+        <CenaNettoPozycji>17 640,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>21 697,20 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>17 640,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>21 697,20 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>675-152-93-71</NIPodbiorcy>
+        <DataWystawienia>2020-11-09</DataWystawienia>
+        <DataSprzedazy>2020-10-30</DataSprzedazy>
+        <NrFaktury>1-09/11/2020</NrFaktury>
+        <TytulPozycji>Firma3 - prace projektowe oraz programistyczne związane z rozwojem, zgodne z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>83,6375</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>22 895,78 zł</KwotaPodatku>
+        <CenaNettoPozycji>99 546,88 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>122 442,66 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>112 386,88 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>138 235,86 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>675-152-93-71</NIPodbiorcy>
+        <DataWystawienia>2020-11-09</DataWystawienia>
+        <DataSprzedazy>2020-10-30</DataSprzedazy>
+        <NrFaktury>1-09/11/2020</NrFaktury>
+        <TytulPozycji>Zarządzanie infrastrukturą serwerową oraz usługami dla projektu Firma3 – Premium</TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>7 840,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>1 803,20 zł</KwotaPodatku>
+        <CenaNettoPozycji>7 840,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>9 643,20 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>112 386,88 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>138 235,86 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>675-152-93-71</NIPodbiorcy>
+        <DataWystawienia>2020-11-09</DataWystawienia>
+        <DataSprzedazy>2020-10-30</DataSprzedazy>
+        <NrFaktury>1-09/11/2020</NrFaktury>
+        <TytulPozycji>Firma3 - prace projektowe oraz programistyczne związane z utrzymaniem i poprawą błędów oraz bieżącymi działaniami,  zgodne z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>4</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>1 150,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>5 000,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>6 150,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>112 386,88 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>138 235,86 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>675-152-93-71</NIPodbiorcy>
+        <DataWystawienia>2020-11-09</DataWystawienia>
+        <DataSprzedazy>2020-10-30</DataSprzedazy>
+        <NrFaktury>2-09/11/2020</NrFaktury>
+        <TytulPozycji>Innovative - prace projektowe oraz programistyczne związane z rozwojem, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>12,18750</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>3 503,91 zł</KwotaPodatku>
+        <CenaNettoPozycji>15 234,38 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>18 738,29 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>23 359,38 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>28 732,04 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>675-152-93-71</NIPodbiorcy>
+        <DataWystawienia>2020-11-09</DataWystawienia>
+        <DataSprzedazy>2020-10-30</DataSprzedazy>
+        <NrFaktury>2-09/11/2020</NrFaktury>
+        <TytulPozycji>Innovative - prace projektowe oraz programistyczne związane z utrzymaniem i poprawą błędów oraz bieżącymi działaniami,  zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>6,50000</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>1 868,75 zł</KwotaPodatku>
+        <CenaNettoPozycji>8 125,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>9 993,75 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>23 359,38 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>28 732,04 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma8 Sp. z o.o. sp.k.</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>677-00-46-633</NIPodbiorcy>
+        <DataWystawienia>2020-11-10</DataWystawienia>
+        <DataSprzedazy>2020-10-30</DataSprzedazy>
+        <NrFaktury>1-10/11/2020</NrFaktury>
+        <TytulPozycji>Firma8 - prace projektowe oraz programistyczne, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>26,47500</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>7 611,56 zł</KwotaPodatku>
+        <CenaNettoPozycji>33 093,75 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>40 705,31 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>33 093,75 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>40 705,31 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma5 SP. Z O.O.</NazwaOdbiorcy>
+        <AdresOdbiorcy>UL. FELIKSA RADWAŃSKIEGO 15/1, 30-065 KRAKÓW</AdresOdbiorcy>
+        <NIPodbiorcy>634-27-26-447</NIPodbiorcy>
+        <DataWystawienia>2020-11-10</DataWystawienia>
+        <DataSprzedazy>2020-11-10</DataSprzedazy>
+        <NrFaktury>2-10/11/2020</NrFaktury>
+        <TytulPozycji>Czynsz z tytułu najmu powierzchni w budynku przy ul. Radwańskiego 15 w Krakowie za Listopad 2020</TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>3 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>690,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>3 000,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>3 690,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>3 000,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>3 690,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma6 SP. Z O.O.</NazwaOdbiorcy>
+        <AdresOdbiorcy>UL. FELIKSA RADWAŃSKIEGO 15/1, 30-065 KRAKÓW</AdresOdbiorcy>
+        <NIPodbiorcy>676-247-94-12</NIPodbiorcy>
+        <DataWystawienia>2020-11-10</DataWystawienia>
+        <DataSprzedazy>2020-11-10</DataSprzedazy>
+        <NrFaktury>3-10/11/2020</NrFaktury>
+        <TytulPozycji>Czynsz z tytułu najmu powierzchni w budynku przy ul. Radwańskiego 15 w Krakowie za Listopad 2020</TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>7 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>1 610,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>7 000,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>8 610,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>7 000,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>8 610,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma4</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. MICKIEWICZA 1/5, 33-100 TARNÓW</AdresOdbiorcy>
+        <NIPodbiorcy>873-171-75-73</NIPodbiorcy>
+        <DataWystawienia>2020-11-13</DataWystawienia>
+        <DataSprzedazy>2020-10-30</DataSprzedazy>
+        <NrFaktury>1-13/11/2020</NrFaktury>
+        <TytulPozycji>Abonament – aktywne karty SIM zgodnie z załącznikiem </TytulPozycji>
+        <LiczbaSztuk>472,9337</LiczbaSztuk>
+        <CenaJednostkowa>7,50 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>815,81 zł</KwotaPodatku>
+        <CenaNettoPozycji>3 547,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>4 362,81 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>3 547,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>4 362,81 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma2</NazwaOdbiorcy>
+        <AdresOdbiorcy>Ul. Zamkowa 1, 31 – 200 Kraków </AdresOdbiorcy>
+        <NIPodbiorcy>552-151-68-49</NIPodbiorcy>
+        <DataWystawienia>2020-11-17</DataWystawienia>
+        <DataSprzedazy>2020-11-17</DataSprzedazy>
+        <NrFaktury>1-17/11/2020</NrFaktury>
+        <TytulPozycji>Informatyczne narzędzia edukacyjne</TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>1 593,50 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>366,50 zł</KwotaPodatku>
+        <CenaNettoPozycji>1 593,50 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>1 960,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>1 593,50 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>1 960,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-11-25</DataWystawienia>
+        <DataSprzedazy>2020-10-30</DataSprzedazy>
+        <NrFaktury>1-25/11/2020</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem aplikacji Aplikacja sprzedażowa w październiku 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>8,95125</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>2 058,79 zł</KwotaPodatku>
+        <CenaNettoPozycji>8 951,25 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>11 010,04 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>34 030,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>41 856,90 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-11-25</DataWystawienia>
+        <DataSprzedazy>2020-10-30</DataSprzedazy>
+        <NrFaktury>1-25/11/2020</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem aplikacji Sellcar w październiku 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>3,41750</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>786,03 zł</KwotaPodatku>
+        <CenaNettoPozycji>3 417,50 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>4 203,53 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>34 030,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>41 856,90 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-11-25</DataWystawienia>
+        <DataSprzedazy>2020-10-30</DataSprzedazy>
+        <NrFaktury>1-25/11/2020</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem systemu Aplikacja GPS w październiku 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>14,56250</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>3 349,38 zł</KwotaPodatku>
+        <CenaNettoPozycji>14 562,50 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>17 911,88 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>34 030,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>41 856,90 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-11-25</DataWystawienia>
+        <DataSprzedazy>2020-10-30</DataSprzedazy>
+        <NrFaktury>1-25/11/2020</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem systemu Aplikacja ubezpieczeniowa w październiku 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>1,81250</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>416,88 zł</KwotaPodatku>
+        <CenaNettoPozycji>1 812,50 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>2 229,38 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>34 030,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>41 856,90 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-11-25</DataWystawienia>
+        <DataSprzedazy>2020-10-30</DataSprzedazy>
+        <NrFaktury>1-25/11/2020</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem systemu Aplikacja windykacyjna w październiku 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>0,56250</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>129,38 zł</KwotaPodatku>
+        <CenaNettoPozycji>562,50 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>691,88 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>34 030,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>41 856,90 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-11-25</DataWystawienia>
+        <DataSprzedazy>2020-10-30</DataSprzedazy>
+        <NrFaktury>1-25/11/2020</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem systemu Ces w październiku 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>1,21875</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>280,31 zł</KwotaPodatku>
+        <CenaNettoPozycji>1 218,75 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>1 499,06 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>34 030,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>41 856,90 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-11-25</DataWystawienia>
+        <DataSprzedazy>2020-10-30</DataSprzedazy>
+        <NrFaktury>1-25/11/2020</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem usługi eFaktura w październiku 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>0,20625</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>47,44 zł</KwotaPodatku>
+        <CenaNettoPozycji>206,25 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>253,69 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>34 030,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>41 856,90 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-11-25</DataWystawienia>
+        <DataSprzedazy>2020-10-30</DataSprzedazy>
+        <NrFaktury>1-25/11/2020</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem – wyceny w październiku 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>3,29875</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>758,71 zł</KwotaPodatku>
+        <CenaNettoPozycji>3 298,75 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>4 057,46 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>34 030,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>41 856,90 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-11-25</DataWystawienia>
+        <DataSprzedazy>2020-10-30</DataSprzedazy>
+        <NrFaktury>2-25/11/2020</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem infrastruktury w październiku 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>12,77500</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>2 938,25 zł</KwotaPodatku>
+        <CenaNettoPozycji>12 775,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>15 713,25 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>12 775,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>15 713,25 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-11-25</DataWystawienia>
+        <DataSprzedazy>2020-11-25</DataSprzedazy>
+        <NrFaktury>3-25/11/2020</NrFaktury>
+        <TytulPozycji>Prace rozwojowe - #68697 : Filtry</TytulPozycji>
+        <LiczbaSztuk>18,25</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>4 197,50 zł</KwotaPodatku>
+        <CenaNettoPozycji>18 250,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>22 447,50 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>85 833,75 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>105 575,51 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-11-25</DataWystawienia>
+        <DataSprzedazy>2020-11-25</DataSprzedazy>
+        <NrFaktury>3-25/11/2020</NrFaktury>
+        <TytulPozycji>Prace rozwojowe - #69084 :Nowe pop-upy i frame w górnej belce Selltoll</TytulPozycji>
+        <LiczbaSztuk>2,5</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>575,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>2 500,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>3 075,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>85 833,75 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>105 575,51 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-11-25</DataWystawienia>
+        <DataSprzedazy>2020-11-25</DataSprzedazy>
+        <NrFaktury>3-25/11/2020</NrFaktury>
+        <TytulPozycji>Prace rozwojowe - #69169 :Podział ruchu na iframe/zalogowany/anonimowy </TytulPozycji>
+        <LiczbaSztuk>3</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>690,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>3 000,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>3 690,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>85 833,75 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>105 575,51 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-11-25</DataWystawienia>
+        <DataSprzedazy>2020-11-25</DataSprzedazy>
+        <NrFaktury>3-25/11/2020</NrFaktury>
+        <TytulPozycji>Prace rozwojowe - #69401 : Dodatki po audycie UX
+
+</TytulPozycji>
+        <LiczbaSztuk>2</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>460,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>2 000,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>2 460,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>85 833,75 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>105 575,51 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-11-25</DataWystawienia>
+        <DataSprzedazy>2020-11-25</DataSprzedazy>
+        <NrFaktury>3-25/11/2020</NrFaktury>
+        <TytulPozycji>Prace rozwojowe - #50956 : Grupowanie pojazdów - rozliczenie część 2</TytulPozycji>
+        <LiczbaSztuk>29,2125</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>6 718,88 zł</KwotaPodatku>
+        <CenaNettoPozycji>29 212,50 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>35 931,38 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>85 833,75 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>105 575,51 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-11-25</DataWystawienia>
+        <DataSprzedazy>2020-11-25</DataSprzedazy>
+        <NrFaktury>3-25/11/2020</NrFaktury>
+        <TytulPozycji>Prace rozwojowe - #60386 : Obsługa pojazdów importowanych – rozliczenie część 2</TytulPozycji>
+        <LiczbaSztuk>30,87125</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>7 100,39 zł</KwotaPodatku>
+        <CenaNettoPozycji>30 871,25 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>37 971,64 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>85 833,75 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>105 575,51 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma9 SP. Z O.O.</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. Dobra 28, 00-344 Warszawa</AdresOdbiorcy>
+        <NIPodbiorcy>118-16-48-603</NIPodbiorcy>
+        <DataWystawienia>2020-12-07</DataWystawienia>
+        <DataSprzedazy>2020-11-30</DataSprzedazy>
+        <NrFaktury>1-07/12/2020</NrFaktury>
+        <TytulPozycji>NAJEM SERWERA ZA OKRES 11.2020 (SPECYFIKACJA ZGODNA Z UMOWĄ)   </TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>13 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>2 990,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>13 000,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>15 990,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>13 000,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>15 990,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma8 Sp. z o.o. sp.k.</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>677-00-46-633</NIPodbiorcy>
+        <DataWystawienia>2020-12-07</DataWystawienia>
+        <DataSprzedazy>2020-11-30</DataSprzedazy>
+        <NrFaktury>2-07/12/2020</NrFaktury>
+        <TytulPozycji>Firma8 - prace projektowe oraz programistyczne, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>12,46875</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>3 584,77 zł</KwotaPodatku>
+        <CenaNettoPozycji>15 585,94 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>19 170,71 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>15 585,94 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>19 170,71 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma4</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. MICKIEWICZA 1/5, 33-100 TARNÓW</AdresOdbiorcy>
+        <NIPodbiorcy>873-171-75-73</NIPodbiorcy>
+        <DataWystawienia>2020-12-07</DataWystawienia>
+        <DataSprzedazy>2020-11-30</DataSprzedazy>
+        <NrFaktury>3-07/12/2020</NrFaktury>
+        <TytulPozycji>Abonament – aktywne karty SIM zgodnie z załącznikiem </TytulPozycji>
+        <LiczbaSztuk>536,86620</LiczbaSztuk>
+        <CenaJednostkowa>7,50 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>926,10 zł</KwotaPodatku>
+        <CenaNettoPozycji>4 026,50 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>4 952,60 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>4 026,50 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>4 952,60 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma4</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. MICKIEWICZA 1/5, 33-100 TARNÓW</AdresOdbiorcy>
+        <NIPodbiorcy>873-171-75-73</NIPodbiorcy>
+        <DataWystawienia>2020-12-07</DataWystawienia>
+        <DataSprzedazy>2020-11-30</DataSprzedazy>
+        <NrFaktury>4-07/12/2020</NrFaktury>
+        <TytulPozycji>Urządzenia GPS – terminale/montaż – listopad 2020 zgodnie z załącznikiem </TytulPozycji>
+        <LiczbaSztuk>52</LiczbaSztuk>
+        <CenaJednostkowa>280,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>3 348,80 zł</KwotaPodatku>
+        <CenaNettoPozycji>14 560,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>17 908,80 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>14 560,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>17 908,80 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma4</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. MICKIEWICZA 1/5, 33-100 TARNÓW</AdresOdbiorcy>
+        <NIPodbiorcy>873-171-75-73</NIPodbiorcy>
+        <DataWystawienia>2020-12-07</DataWystawienia>
+        <DataSprzedazy>2020-11-30</DataSprzedazy>
+        <NrFaktury>5-07/12/2020</NrFaktury>
+        <TytulPozycji>Urządzenia GPS – terminale - uzupełnienie stocka urządzeń</TytulPozycji>
+        <LiczbaSztuk>100</LiczbaSztuk>
+        <CenaJednostkowa>280,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>6 440,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>28 000,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>34 440,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>28 000,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>34 440,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>675-152-93-71</NIPodbiorcy>
+        <DataWystawienia>2020-12-07</DataWystawienia>
+        <DataSprzedazy>2020-11-30</DataSprzedazy>
+        <NrFaktury>6-07/12/2020</NrFaktury>
+        <TytulPozycji>Zarządzanie infrastrukturą serwerową oraz usługami dla projektu Innovative- ZGODNIE Z RAPORTEM</TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>3 090,63 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>710,84 zł</KwotaPodatku>
+        <CenaNettoPozycji>3 090,63 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>3 801,47 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>3 090,63 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>3 801,47 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>675-152-93-71</NIPodbiorcy>
+        <DataWystawienia>2020-12-09</DataWystawienia>
+        <DataSprzedazy>2020-11-30</DataSprzedazy>
+        <NrFaktury>1-09/12/2020</NrFaktury>
+        <TytulPozycji>Firma3 - prace projektowe oraz programistyczne związane z rozwojem, zgodne z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>78,8000</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>21 505,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>93 500,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>115 005,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>106 340,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>130 798,20 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>675-152-93-71</NIPodbiorcy>
+        <DataWystawienia>2020-12-09</DataWystawienia>
+        <DataSprzedazy>2020-11-30</DataSprzedazy>
+        <NrFaktury>1-09/12/2020</NrFaktury>
+        <TytulPozycji>Zarządzanie infrastrukturą serwerową oraz usługami dla projektu Firma3 – Premium</TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>7 840,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>1 803,20 zł</KwotaPodatku>
+        <CenaNettoPozycji>7 840,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>9 643,20 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>106 340,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>130 798,20 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>675-152-93-71</NIPodbiorcy>
+        <DataWystawienia>2020-12-09</DataWystawienia>
+        <DataSprzedazy>2020-11-30</DataSprzedazy>
+        <NrFaktury>1-09/12/2020</NrFaktury>
+        <TytulPozycji>Firma3 - prace projektowe oraz programistyczne związane z utrzymaniem i poprawą błędów oraz bieżącymi działaniami,  zgodne z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>4</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>1 150,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>5 000,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>6 150,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>106 340,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>130 798,20 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>675-152-93-71</NIPodbiorcy>
+        <DataWystawienia>2020-12-09</DataWystawienia>
+        <DataSprzedazy>2020-11-30</DataSprzedazy>
+        <NrFaktury>2-09/12/2020</NrFaktury>
+        <TytulPozycji>Innovative - prace projektowe oraz programistyczne związane z rozwojem, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>4,71875</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>1 356,64 zł</KwotaPodatku>
+        <CenaNettoPozycji>5 898,44 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>7 255,08 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>7 070,32 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>8 696,49 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>675-152-93-71</NIPodbiorcy>
+        <DataWystawienia>2020-12-09</DataWystawienia>
+        <DataSprzedazy>2020-11-30</DataSprzedazy>
+        <NrFaktury>2-09/12/2020</NrFaktury>
+        <TytulPozycji>Innovative - prace projektowe oraz programistyczne związane z utrzymaniem i poprawą błędów oraz bieżącymi działaniami,  zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>0,93750</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>269,53 zł</KwotaPodatku>
+        <CenaNettoPozycji>1 171,88 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>1 441,41 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>7 070,32 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>8 696,49 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma5 SP. Z O.O.</NazwaOdbiorcy>
+        <AdresOdbiorcy>UL. FELIKSA RADWAŃSKIEGO 15/1, 30-065 KRAKÓW</AdresOdbiorcy>
+        <NIPodbiorcy>634-27-26-447</NIPodbiorcy>
+        <DataWystawienia>2020-12-10</DataWystawienia>
+        <DataSprzedazy>2020-12-10</DataSprzedazy>
+        <NrFaktury>1-10/12/2020</NrFaktury>
+        <TytulPozycji>Czynsz z tytułu najmu powierzchni w budynku przy ul. Radwańskiego 15 w Krakowie za Grudzień 2020</TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>3 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>690,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>3 000,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>3 690,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>3 000,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>3 690,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma6 SP. Z O.O.</NazwaOdbiorcy>
+        <AdresOdbiorcy>UL. FELIKSA RADWAŃSKIEGO 15/1, 30-065 KRAKÓW</AdresOdbiorcy>
+        <NIPodbiorcy>676-247-94-12</NIPodbiorcy>
+        <DataWystawienia>2020-12-10</DataWystawienia>
+        <DataSprzedazy>2020-12-10</DataSprzedazy>
+        <NrFaktury>2-10/12/2020</NrFaktury>
+        <TytulPozycji>Czynsz z tytułu najmu powierzchni w budynku przy ul. Radwańskiego 15 w Krakowie za Grudzień 2020</TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>7 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>1 610,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>7 000,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>8 610,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>7 000,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>8 610,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-12-14</DataWystawienia>
+        <DataSprzedazy>2020-11-30</DataSprzedazy>
+        <NrFaktury>1-14/12/2020</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem aplikacji Aplikacja sprzedażowa w listopadzie 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>3,97500</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>914,25 zł</KwotaPodatku>
+        <CenaNettoPozycji>3 975,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>4 889,25 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>28 920,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>35 571,60 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-12-14</DataWystawienia>
+        <DataSprzedazy>2020-11-30</DataSprzedazy>
+        <NrFaktury>1-14/12/2020</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem aplikacji Sellcar w listopadzie 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>16,06625</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>3 695,24 zł</KwotaPodatku>
+        <CenaNettoPozycji>16 066,25 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>19 761,49 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>28 920,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>35 571,60 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-12-14</DataWystawienia>
+        <DataSprzedazy>2020-11-30</DataSprzedazy>
+        <NrFaktury>1-14/12/2020</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem systemu Aplikacja GPS w listopadzie 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>5,69375</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>1 309,56 zł</KwotaPodatku>
+        <CenaNettoPozycji>5 693,75 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>7 003,31 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>28 920,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>35 571,60 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-12-14</DataWystawienia>
+        <DataSprzedazy>2020-11-30</DataSprzedazy>
+        <NrFaktury>1-14/12/2020</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem systemu Aplikacja ubezpieczeniowa w listopadzie 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>0,50000</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>115,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>500,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>615,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>28 920,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>35 571,60 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-12-14</DataWystawienia>
+        <DataSprzedazy>2020-11-30</DataSprzedazy>
+        <NrFaktury>1-14/12/2020</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem systemu Aplikacja windykacyjna w listopadzie 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>0,43750</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>100,63 zł</KwotaPodatku>
+        <CenaNettoPozycji>437,50 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>538,13 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>28 920,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>35 571,60 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-12-14</DataWystawienia>
+        <DataSprzedazy>2020-11-30</DataSprzedazy>
+        <NrFaktury>1-14/12/2020</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem systemu Ces w listopadzie 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>0,53125</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>122,19 zł</KwotaPodatku>
+        <CenaNettoPozycji>531,25 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>653,44 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>28 920,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>35 571,60 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-12-14</DataWystawienia>
+        <DataSprzedazy>2020-11-30</DataSprzedazy>
+        <NrFaktury>1-14/12/2020</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem usługi eFaktura w listopadzie 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>0,03125</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>7,19 zł</KwotaPodatku>
+        <CenaNettoPozycji>31,25 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>38,44 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>28 920,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>35 571,60 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-12-14</DataWystawienia>
+        <DataSprzedazy>2020-11-30</DataSprzedazy>
+        <NrFaktury>1-14/12/2020</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem systemu Seyo (Portal Klienta) w listopadzie 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>0,12500</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>28,75 zł</KwotaPodatku>
+        <CenaNettoPozycji>125,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>153,75 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>28 920,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>35 571,60 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-12-14</DataWystawienia>
+        <DataSprzedazy>2020-11-30</DataSprzedazy>
+        <NrFaktury>1-14/12/2020</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem – wyceny w listopadzie 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>1,56000</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>358,80 zł</KwotaPodatku>
+        <CenaNettoPozycji>1 560,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>1 918,80 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>28 920,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>35 571,60 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-12-14</DataWystawienia>
+        <DataSprzedazy>2020-11-30</DataSprzedazy>
+        <NrFaktury>2-14/12/2020</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem infrastruktury w listopadzie 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>13,54375</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>3 115,06 zł</KwotaPodatku>
+        <CenaNettoPozycji>13 543,75 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>16 658,81 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>13 543,75 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>16 658,81 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-12-14</DataWystawienia>
+        <DataSprzedazy>2020-12-14</DataSprzedazy>
+        <NrFaktury>3-14/12/2020</NrFaktury>
+        <TytulPozycji>Prace rozwojowe - #70418: SSR</TytulPozycji>
+        <LiczbaSztuk>19</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>4 370,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>19 000,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>23 370,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>45 093,75 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>55 465,31 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-12-14</DataWystawienia>
+        <DataSprzedazy>2020-12-14</DataSprzedazy>
+        <NrFaktury>3-14/12/2020</NrFaktury>
+        <TytulPozycji>Prace rozwojowe - #70713: Wszystkie samochody razem i wartość na kaflu (ograniczony zakres)</TytulPozycji>
+        <LiczbaSztuk>15</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>3 450,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>15 000,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>18 450,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>45 093,75 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>55 465,31 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-12-14</DataWystawienia>
+        <DataSprzedazy>2020-12-14</DataSprzedazy>
+        <NrFaktury>3-14/12/2020</NrFaktury>
+        <TytulPozycji>Prace rozwojowe - #70991: Finansowanie obce</TytulPozycji>
+        <LiczbaSztuk>4,75</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>1 092,50 zł</KwotaPodatku>
+        <CenaNettoPozycji>4 750,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>5 842,50 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>45 093,75 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>55 465,31 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-12-14</DataWystawienia>
+        <DataSprzedazy>2020-12-14</DataSprzedazy>
+        <NrFaktury>3-14/12/2020</NrFaktury>
+        <TytulPozycji>Prace rozwojowe - #69512: Raport danych klienta na podstawie danych z BIK</TytulPozycji>
+        <LiczbaSztuk>3,46875</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>797,81 zł</KwotaPodatku>
+        <CenaNettoPozycji>3 468,75 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>4 266,56 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>45 093,75 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>55 465,31 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-12-14</DataWystawienia>
+        <DataSprzedazy>2020-12-14</DataSprzedazy>
+        <NrFaktury>3-14/12/2020</NrFaktury>
+        <TytulPozycji>Prace rozwojowe - #70916: Zmiana kwoty minimalnej w zalezności od przeznaczenia gotówki</TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>230,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>1 000,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>1 230,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>45 093,75 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>55 465,31 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2020-12-14</DataWystawienia>
+        <DataSprzedazy>2020-12-14</DataSprzedazy>
+        <NrFaktury>3-14/12/2020</NrFaktury>
+        <TytulPozycji>Prace rozwojowe - #71459: SME</TytulPozycji>
+        <LiczbaSztuk>1,875</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>431,25 zł</KwotaPodatku>
+        <CenaNettoPozycji>1 875,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>2 306,25 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>45 093,75 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>55 465,31 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma7 S.A.</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. Postępu 18B, 02- 676 Warszawa</AdresOdbiorcy>
+        <NIPodbiorcy> 531 30 92 922</NIPodbiorcy>
+        <DataWystawienia>2020-12-14</DataWystawienia>
+        <DataSprzedazy>2020-12-14</DataSprzedazy>
+        <NrFaktury>4-14/12/2020</NrFaktury>
+        <TytulPozycji>System „Tankuj korzyści” zgodnie ze ZLECENIEM NR 5 z dnia 15.01.2020 – rozliczenie rozszerzeń, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>41,60</LiczbaSztuk>
+        <CenaJednostkowa>1 400,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>13 395,20 zł</KwotaPodatku>
+        <CenaNettoPozycji>58 240,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>71 635,20 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>58 240,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>71 635,20 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>675-152-93-71</NIPodbiorcy>
+        <DataWystawienia>2021-01-04</DataWystawienia>
+        <DataSprzedazy>2020-12-30</DataSprzedazy>
+        <NrFaktury>1-04/01/2021</NrFaktury>
+        <TytulPozycji>Innovative - prace projektowe oraz programistyczne związane z rozwojem, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>14,65625</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>4 213,67 zł</KwotaPodatku>
+        <CenaNettoPozycji>18 320,31 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>22 533,98 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>19 414,06 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>23 879,29 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>675-152-93-71</NIPodbiorcy>
+        <DataWystawienia>2021-01-04</DataWystawienia>
+        <DataSprzedazy>2020-12-30</DataSprzedazy>
+        <NrFaktury>1-04/01/2021</NrFaktury>
+        <TytulPozycji>Innovative - prace projektowe oraz programistyczne związane z utrzymaniem i poprawą błędów oraz bieżącymi działaniami,  zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>0,87500</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>251,56 zł</KwotaPodatku>
+        <CenaNettoPozycji>1 093,75 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>1 345,31 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>19 414,06 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>23 879,29 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>675-152-93-71</NIPodbiorcy>
+        <DataWystawienia>2021-01-04</DataWystawienia>
+        <DataSprzedazy>2020-12-30</DataSprzedazy>
+        <NrFaktury>2-04/01/2021</NrFaktury>
+        <TytulPozycji>Zarządzanie infrastrukturą serwerową oraz usługami dla projektu Innovative- ZGODNIE Z RAPORTEM</TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>6 200,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>1 426,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>6 200,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>7 626,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>6 200,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>7 626,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>675-152-93-71</NIPodbiorcy>
+        <DataWystawienia>2021-01-04</DataWystawienia>
+        <DataSprzedazy>2020-12-30</DataSprzedazy>
+        <NrFaktury>3-04/01/2021</NrFaktury>
+        <TytulPozycji>Firma3 - prace projektowe oraz programistyczne związane z rozwojem, zgodne z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>95,26250</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>26 237,97 zł</KwotaPodatku>
+        <CenaNettoPozycji>114 078,13 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>140 316,10 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>126 918,13 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>156 109,30 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>675-152-93-71</NIPodbiorcy>
+        <DataWystawienia>2021-01-04</DataWystawienia>
+        <DataSprzedazy>2020-12-30</DataSprzedazy>
+        <NrFaktury>3-04/01/2021</NrFaktury>
+        <TytulPozycji>Zarządzanie infrastrukturą serwerową oraz usługami dla projektu Firma3 – Premium</TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>7 840,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>1 803,20 zł</KwotaPodatku>
+        <CenaNettoPozycji>7 840,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>9 643,20 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>126 918,13 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>156 109,30 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma3 sp. z o.o.</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>675-152-93-71</NIPodbiorcy>
+        <DataWystawienia>2021-01-04</DataWystawienia>
+        <DataSprzedazy>2020-12-30</DataSprzedazy>
+        <NrFaktury>3-04/01/2021</NrFaktury>
+        <TytulPozycji>Firma3 - prace projektowe oraz programistyczne związane z utrzymaniem i poprawą błędów oraz bieżącymi działaniami,  zgodne z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>4</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>1 150,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>5 000,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>6 150,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>126 918,13 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>156 109,30 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma8 Sp. z o.o. sp.k.</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. Krkusowa 12, 30-123 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>677-00-46-633</NIPodbiorcy>
+        <DataWystawienia>2021-01-04</DataWystawienia>
+        <DataSprzedazy>2020-12-30</DataSprzedazy>
+        <NrFaktury>4-04/01/2021</NrFaktury>
+        <TytulPozycji>Firma8 - prace projektowe oraz programistyczne, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>21,01875</LiczbaSztuk>
+        <CenaJednostkowa>1 250,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>6 042,89 zł</KwotaPodatku>
+        <CenaNettoPozycji>26 273,44 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>32 316,33 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>26 273,44 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>32 316,33 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma9 SP. Z O.O.</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. Dobra 28, 00-344 Warszawa</AdresOdbiorcy>
+        <NIPodbiorcy>118-16-48-603</NIPodbiorcy>
+        <DataWystawienia>2021-01-04</DataWystawienia>
+        <DataSprzedazy>2020-12-30</DataSprzedazy>
+        <NrFaktury>5-04/01/2021</NrFaktury>
+        <TytulPozycji>NAJEM SERWERA ZA OKRES 12.2020 (SPECYFIKACJA ZGODNA Z UMOWĄ)   </TytulPozycji>
+        <LiczbaSztuk>1</LiczbaSztuk>
+        <CenaJednostkowa>13 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>2 990,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>13 000,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>15 990,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>13 000,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>15 990,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma4</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. MICKIEWICZA 1/5, 33-100 TARNÓW</AdresOdbiorcy>
+        <NIPodbiorcy>873-171-75-73</NIPodbiorcy>
+        <DataWystawienia>2021-01-12</DataWystawienia>
+        <DataSprzedazy>2020-12-30</DataSprzedazy>
+        <NrFaktury>1-12/01/2021</NrFaktury>
+        <TytulPozycji>Abonament – aktywne karty SIM zgodnie z załącznikiem </TytulPozycji>
+        <LiczbaSztuk>596,0335</LiczbaSztuk>
+        <CenaJednostkowa>7,50 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>1 028,16</KwotaPodatku>
+        <CenaNettoPozycji>4 470,25 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>5 498,41 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>4 470,25 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>5 498,41 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma4</NazwaOdbiorcy>
+        <AdresOdbiorcy>ul. MICKIEWICZA 1/5, 33-100 TARNÓW</AdresOdbiorcy>
+        <NIPodbiorcy>873-171-75-73</NIPodbiorcy>
+        <DataWystawienia>2021-01-12</DataWystawienia>
+        <DataSprzedazy>2020-12-30</DataSprzedazy>
+        <NrFaktury>2-12/01/2021</NrFaktury>
+        <TytulPozycji>Urządzenia GPS – terminale/montaż – listopad 2020 zgodnie z załącznikiem </TytulPozycji>
+        <LiczbaSztuk>65</LiczbaSztuk>
+        <CenaJednostkowa>280,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>4 186,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>18 200,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>22 386,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>18 200,00 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>22 386,00 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2021-01-19</DataWystawienia>
+        <DataSprzedazy>2020-12-30</DataSprzedazy>
+        <NrFaktury>1-19/01/2021</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem aplikacji Aplikacja sprzedażowa w grudniu 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>8,68750</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>1 998,13 zł</KwotaPodatku>
+        <CenaNettoPozycji>8 687,50 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>10 685,63 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>30 833,75 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>37 925,51 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2021-01-19</DataWystawienia>
+        <DataSprzedazy>2020-12-30</DataSprzedazy>
+        <NrFaktury>1-19/01/2021</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem aplikacji Sellcar w grudniu 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>10,27750</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>2 363,83 zł</KwotaPodatku>
+        <CenaNettoPozycji>10 277,50 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>12 641,33 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>30 833,75 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>37 925,51 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2021-01-19</DataWystawienia>
+        <DataSprzedazy>2020-12-30</DataSprzedazy>
+        <NrFaktury>1-19/01/2021</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem systemu Aplikacja GPS w grudniu 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>4,50000</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>1 035,00 zł</KwotaPodatku>
+        <CenaNettoPozycji>4 500,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>5 535,00 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>30 833,75 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>37 925,51 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2021-01-19</DataWystawienia>
+        <DataSprzedazy>2020-12-30</DataSprzedazy>
+        <NrFaktury>1-19/01/2021</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem systemu Aplikacja ubezpieczeniowa w grudniu 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>0,68750</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>158,13 zł</KwotaPodatku>
+        <CenaNettoPozycji>687,50 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>845,63 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>30 833,75 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>37 925,51 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2021-01-19</DataWystawienia>
+        <DataSprzedazy>2020-12-30</DataSprzedazy>
+        <NrFaktury>1-19/01/2021</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem systemu Aplikacja windykacyjna w grudniu 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>2,31250</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>531,88 zł</KwotaPodatku>
+        <CenaNettoPozycji>2 312,50 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>2 844,38 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>30 833,75 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>37 925,51 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2021-01-19</DataWystawienia>
+        <DataSprzedazy>2020-12-30</DataSprzedazy>
+        <NrFaktury>1-19/01/2021</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem systemu Ces w grudniu 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>0,31250</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>71,88 zł</KwotaPodatku>
+        <CenaNettoPozycji>312,50 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>384,38 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>30 833,75 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>37 925,51 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2021-01-19</DataWystawienia>
+        <DataSprzedazy>2020-12-30</DataSprzedazy>
+        <NrFaktury>1-19/01/2021</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem usługi eFaktura w grudniu 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>0,12500</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>28,75 zł</KwotaPodatku>
+        <CenaNettoPozycji>125,00 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>153,75 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>30 833,75 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>37 925,51 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2021-01-19</DataWystawienia>
+        <DataSprzedazy>2020-12-30</DataSprzedazy>
+        <NrFaktury>1-19/01/2021</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem systemu Seyo (Portal Klienta) w grudniu 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>0,18750</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>43,13 zł</KwotaPodatku>
+        <CenaNettoPozycji>187,50 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>230,63 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>30 833,75 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>37 925,51 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2021-01-19</DataWystawienia>
+        <DataSprzedazy>2020-12-30</DataSprzedazy>
+        <NrFaktury>1-19/01/2021</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem – wyceny w grudniu 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>3,74375</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>861,06 zł</KwotaPodatku>
+        <CenaNettoPozycji>3 743,75 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>4 604,81 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>30 833,75 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>37 925,51 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <NazwaOdbiorcy>Firma1 Sp. z o.o</NazwaOdbiorcy>
+        <AdresOdbiorcy>AL. A. Mickiewicza 141, 31-127 Kraków</AdresOdbiorcy>
+        <NIPodbiorcy>113-29-95-753 </NIPodbiorcy>
+        <DataWystawienia>2021-01-19</DataWystawienia>
+        <DataSprzedazy>2020-12-30</DataSprzedazy>
+        <NrFaktury>2-19/01/2021</NrFaktury>
+        <TytulPozycji>Prace związane z utrzymaniem infrastruktury w grudniu 2020, zgodnie z załącznikiem</TytulPozycji>
+        <LiczbaSztuk>13,43125</LiczbaSztuk>
+        <CenaJednostkowa>1 000,00 zł</CenaJednostkowa>
+        <StawkaPodatku_Procenty>23</StawkaPodatku_Procenty>
+        <KwotaPodatku>3 089,19 zł</KwotaPodatku>
+        <CenaNettoPozycji>13 431,25 zł</CenaNettoPozycji>
+        <CenaBruttoPozycji>16 520,44 zł</CenaBruttoPozycji>
+        <CenaNettoFakturyLacznie>13 431,25 zł</CenaNettoFakturyLacznie>
+        <CenaBruttoFakturyLacznie>16 520,44 zł</CenaBruttoFakturyLacznie>
+    </faktura>
+    <faktura>
+        <RodzajFaktury>KOREKTA</RodzajFaktury>
+        <PrzyczynaKorekty>Faktura korygująca, korekta dotyczy fv nr 2-09/11/2020 przyczyna korkty błędna kwota w pozycji nr 2 – Różnica do zwrotu - Innovative - prace projektowe oraz programistyczne związane z rozwojem, zgodnie z załącznikiem</PrzyczynaKorekty>
+        <NrFaKorygowanej>Od 2020-11-12 do 2020-11-12</NrFaKorygowanej>
+        <OkresFaKorygowanej>2-09/11/20202</OkresFaKorygowanej>
+    </faktura>
+    <FakturaCtrl>
+        <LiczbaWierszyFaktur>108</LiczbaWierszyFaktur>
+        <WartoscWierszyFaktur>7577671.04 zł</WartoscWierszyFaktur>
+    </FakturaCtrl>
+</faktury>

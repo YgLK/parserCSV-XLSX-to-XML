@@ -23,8 +23,8 @@ public class ExportXML {
      * export invoices data to the
      * XML format file.
      *
-     * @param invoices
-     * @param filenameToSave
+     * @param invoices list of the invoices
+     * @param filenameToSave name of the saved file
      */
     public static void exportDataToXML(Invoices invoices, String filenameToSave) {
         //remove the first person object of list. because it holds the column's names
@@ -40,6 +40,7 @@ public class ExportXML {
             jaxbMarshaller.setProperty(javax.xml.bind.Marshaller.JAXB_FORMATTED_OUTPUT, true);
             //calling the marshall method
             jaxbMarshaller.marshal(invoices, new File(filenameToSave));
+
             logger.info("File has been exported to XML format successfully.");
         } catch (JAXBException e) {
             e.printStackTrace();
